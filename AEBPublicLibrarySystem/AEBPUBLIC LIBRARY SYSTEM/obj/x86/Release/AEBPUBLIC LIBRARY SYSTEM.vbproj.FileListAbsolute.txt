@@ -1,0 +1,13 @@
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\bin\Release\AEBPUBLIC LIBRARY SYSTEM.exe
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\bin\Release\AEBPUBLIC LIBRARY SYSTEM.pdb
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\bin\Release\AEBPUBLIC LIBRARY SYSTEM.xml
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\AEBPUBLIC_LIBRARY_SYSTEM.Form1.resources
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\AEBPUBLIC_LIBRARY_SYSTEM.Resources.resources
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\AEBPUBLIC LIBRARY SYSTEM.exe
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\AEBPUBLIC LIBRARY SYSTEM.xml
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\AEBPUBLIC LIBRARY SYSTEM.pdb
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\bin\Release\MySql.Data.dll
+C:\Users\Janssel\documents\visual studio 2010\Projects\AEBPUBLIC LIBRARY SYSTEM\AEBPUBLIC LIBRARY SYSTEM\obj\x86\Release\AEBPUBLIC_LIBRARY_SYSTEM.Form2.resources
